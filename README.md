@@ -20,4 +20,4 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
 * Programação JAVA - Básico
 
-* Inglês - Básco 
+* Inglês - Básico 
