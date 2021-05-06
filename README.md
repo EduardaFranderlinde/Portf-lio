@@ -6,18 +6,18 @@ Informação de contato:
 E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
 # Formação 
-Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
+* Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
 
-Ensino Fundamental - Colégio Maria Luiza de Melo - 2019
+* Ensino Fundamental - Colégio Maria Luiza de Melo - 2019
 
 # Habilidades
 
-G-suite
+* G-suite
 
-Comandos Linux - Intermediários 
+* Comandos Linux - Intermediários 
 
-Fundamentos de Redes -  Básico
+* Fundamentos de Redes -  Básico
 
-Programação JAVA - Básico
+* Programação JAVA - Básico
 
-Inglês - Básco 
+* Inglês - Básco 
