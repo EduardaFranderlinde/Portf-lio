@@ -2,7 +2,8 @@
 Eduarda Garcia Franderlinde
 
 Informação de contato:
-eduarda_franderlinde@estudante.sc.senai.br
+
+E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
 # Formação 
 Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
@@ -13,11 +14,10 @@ Ensino Fundamental - Colégio Maria Luiza de Melo - 2019
 
 G-suite
 
-Comandos Linux intermediários 
+Comandos Linux - Intermediários 
 
-Inglês básco 
+Fundamentos de Redes -  Básico
 
-# Qualidades
+Programação JAVA - Básico
 
-Comprometimento 
-
+Inglês - Básco 
