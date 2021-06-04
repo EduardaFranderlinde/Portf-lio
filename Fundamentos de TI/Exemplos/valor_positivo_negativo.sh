@@ -1,5 +1,6 @@
-#Autor(a):
+# Autor(a):
 Eduarda Garcia Franderlinde
 
-#Descrição: 
+# Descrição: 
 O script lê o valor inserido e determina se ele é positvo ou negativo.
+
