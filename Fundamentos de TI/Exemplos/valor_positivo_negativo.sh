@@ -10,7 +10,7 @@ read x
 
 if [ $x -lt 0 ]
 then
-  echo "O número digita é positivo!"
+  echo "O número digita é positivo."
 else 
-  echo "O número digitado é negativo!"
+  echo "O número digitado é negativo."
 fi
