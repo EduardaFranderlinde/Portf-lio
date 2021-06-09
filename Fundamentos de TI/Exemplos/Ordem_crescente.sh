@@ -2,7 +2,7 @@
 Eduarda Garcia Franderlinde
 
 #Descrição:
-Algoritmo que imprimir os números de 1 a 10 em ordem crscente.
+Algoritmo que imprime os números de 1 a 10 em ordem crscente.
 
 #!/bin/bash
 i=1
