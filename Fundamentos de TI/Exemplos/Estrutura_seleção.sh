@@ -20,6 +20,5 @@ elif [ $y - le $ano_16 ]
 then 
   echo "Você pode votar."
 else 
-  echo "Você não pode votar."
+  echo "Você não pode votar!"
 fi
-
