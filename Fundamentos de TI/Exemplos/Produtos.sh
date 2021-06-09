@@ -1,7 +1,7 @@
-#Autor(a):
+# Autor(a):
 Eduarda Garcia Franderlinde
 
-#Descrição:
+# Descrição:
 Algoritmo para ler o preço de 15 produtos e mostrar o maior preço lido, além de calcular a média de preços dos produtos e imprimir o resultado.
 
 #!/bin/bash
