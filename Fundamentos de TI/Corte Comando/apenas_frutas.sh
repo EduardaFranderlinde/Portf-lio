@@ -6,4 +6,4 @@ Lista apenas a coluna das frutas de um arquivo de texto.
 
 #!/bin/bash
 echo "Lista das frutas"
-cut -d" " -f2
+cut -d" " - f2 Lista_Frutas
