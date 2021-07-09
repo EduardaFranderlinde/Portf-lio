@@ -11,7 +11,7 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 - [while](Fundamentos_TI/Exemplos/Ordem_crescente.sh)
 - [if](Fundamentos_TI/Exemplos/Estrutura_seleção.sh)
 - [vetor e for](Fundamentos_TI/Vetor/Exercício_1.sh)
-- [cut](Fundamentos_TI/Corte Comando/alfabetica.sh)
+- [cut](Fundamentos_TI/Corte_Comando/alfabetica.sh)
 
 
 # Formação 
