@@ -6,11 +6,11 @@ Informação de contato:
 E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
 # Códigos exemplo
-- [for](Fudamentos de TI/Exemplos/Produtos.sh)
+- [for] (Fundamentos de TI/Exemplos/Produtos.sh)
 - [while](Fundamentos de TI/Exemplos/Ordem_crescente.sh)
 - [if](Fundamentos de TI/Exemplos/Estrutura_seleção.sh)
 - [vetor e for](Fundamentos de TI/Vetor/Exercício_1.sh)
-- [cut](Fudamentos de TI/Corte Comando/alfabetica.sh)
+- [cut](Fundamentos de TI/Corte Comando/alfabetica.sh)
 
 # Formação 
 * Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
