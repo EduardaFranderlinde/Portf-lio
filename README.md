@@ -5,6 +5,8 @@ Informação de contato:
 
 E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
+# Códigos exemplo
+
 # Formação 
 * Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
 
