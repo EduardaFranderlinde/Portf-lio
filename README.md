@@ -19,7 +19,7 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 - [Tabuada](Lógica_Computacional/Tabuada.java)
 
 # Códigos exemplos - Prova Script
-- [Listar arquivos](Fudamentos_TI/Scripts_Prova/ Nome.sh)
+- [Listar arquivos](Fudamentos_TI/Scripts_Prova/Nome.sh)
 - [Listar nomes de usuários](Fundamentos_TI/Scripts_Prova/aqr.sh)
 
 # Formação 
