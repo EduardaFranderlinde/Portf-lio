@@ -5,12 +5,12 @@ Eduarda Franderlinde
 Descubra sua sorte atráves dos números.
 
 #!/bin/bash
-echo "Digite um n..mero at.. 5 e descubra se ele .. o azarado:"
+echo "Digite um número até 5 e descubra se ele é o azarado:"
 read x
  
 if [ $x = 1 ]
 then
-  echo "O azar foi certeiro para voc.."
+  echo "O azar foi certeiro para você"
 else
-  echo "Parece que sua sorte j.. come..ou a funcionar"
+  echo "Parece que sua sorte já começou a funcionar"
 fi
