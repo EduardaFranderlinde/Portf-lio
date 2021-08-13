@@ -18,9 +18,13 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 - [Piada Sem Graça](Lógica_Computacional/Piada.java)
 - [Tabuada](Lógica_Computacional/Tabuada.java)
 
-# Códigos exemplos - Prova Script
+# Códigos Exemplos - Prova Script
 - [Listar arquivos](Fudamentos_TI/Scripts_Prova/Nome.sh)
 - [Listar nomes de usuários](Fundamentos_TI/Scripts_Prova/aqr.sh)
+
+# Códigos Exemplos - Avaliação Prática
+- [Permissionamento](Fundamentos_TI/Avaliação_prática/perm.sh)
+- [Usuários](Fundamentos_TI/Avaliação_prática/usuario.sh)
 
 # Formação 
 * Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
