@@ -1,0 +1,11 @@
+CREATE TABLE Cuidar(
+Cod_funcionario int,
+foreign key(Cod_funcionario) references Funcionarios,
+Cod_animal int,
+FOREIGN key(Cod_animal) references Animal
+);
+INSERT INTO cuidar
+(cod_funcionario, cod_animal)
+VALUES
+(121313, 1),
+(132645, 2);
