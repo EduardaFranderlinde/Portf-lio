@@ -30,5 +30,7 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 * Fundamentos de Redes -  Básico
 
 * Programação JAVA - Básico
+* SQL - Intermediário
 
 * Inglês - Básico 
+
