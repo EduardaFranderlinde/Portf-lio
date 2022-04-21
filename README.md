@@ -5,26 +5,14 @@ Informação de contato:
 
 E-mail: eduarda_franderlinde@estudante.sc.senai.br
  
+# Códigos - Banco de Dados
+- [select](Banco_Dado/Visualizar/Selects.sql)
 
-# Códigos Exemplos - Shell  Script 
-- [for](Fundamentos_TI/Exemplos/Produtos.sh)
-- [while](Fundamentos_TI/Exemplos/Ordem_crescente.sh)
-- [if](Fundamentos_TI/Exemplos/Estrutura_seleção.sh)
-- [vetor e for](Fundamentos_TI/Vetor/Exercício_1.sh)
-- [cut](Fundamentos_TI/Corte_Comando/alfabetica.sh)
+# Códigos - Programação de Aplicativos
+- [random](Programacao_App/Random)
 
-# Códigos Exemplos - Java
-- [Juros](Lógica_Computacional/Juros.java)
-- [Piada Sem Graça](Lógica_Computacional/Piada.java)
-- [Tabuada](Lógica_Computacional/Tabuada.java)
-
-# Códigos Exemplos - Prova Script
-- [Listar arquivos](Fudamentos_TI/Scripts_Prova/Nome.sh)
-- [Listar nomes de usuários](Fundamentos_TI/Scripts_Prova/aqr.sh)
-
-# Códigos Exemplos - Avaliação Prática
-- [Permissionamento](Fundamentos_TI/Avaliação_prática/perm.sh)
-- [Usuários](Fundamentos_TI/Avaliação_prática/usuario.sh)
+# Códigos - Modelagem de Sistemas
+- [presídio](Modelagem_Sistemas/Presidio)
 
 # Formação 
 * Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
