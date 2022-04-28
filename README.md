@@ -11,7 +11,7 @@ E-mail: eduarda_franderlinde@estudante.sc.senai.br
 
 # Códigos - Programação de Aplicativos
 - [random](Programacao_App/Random) - Código colocado aqui ficar como um lembre de como funciona o random
-- [câmera](Programacao_App/Acesso_ camera) - Código inserido pois tem novos comandos 
+- [acesso_camera](Programacao_App/Acesso_ camera) - Código inserido pois tem novos comandos 
 
 # Códigos - Modelagem de Sistemas
 - [presídio](Modelagem_Sistemas/Presidio) - Escolhi esse código pois foi o maior que fizessemos
