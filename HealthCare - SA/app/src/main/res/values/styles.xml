@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpinnerPeronalizado" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">@font/urbanist</item>
+        <item name="android:textColorHint">#757575</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="botao_sexo_imc" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="backgroundColor">#4A858B</item>
+        <item name="strokeColor">#0C5C64</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:radius">20px</item>
+        <item name="android:width">280px</item>
+        <item name="android:height">280px</item>
+    </style>
+
+    <style name="botao_mais_menos">
+        <item name="backgroundTint">#FFFFFF</item>
+        <item name="borderColor">#4A858B</item>
+        <item name="borderWidth">1dp</item>
+        <item name="android:radius">10px</item>
+        <item name="android:width">85px</item>
+        <item name="height">5px</item>
+    </style>
+
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.107" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/barra_fundo_voltar_titulo.xml" value="0.3255" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/botao_cadastro.xml" value="0.2985" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/botoes_conteudos.xml" value="0.3255" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/box_alimentacao.xml" value="0.221" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/box_azul.xml" value="0.173" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/box_passos.xml" value="0.157" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/box_tornar_premium.xml" value="0.3355" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/caixa_login.xml" value="0.2985" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/container_mais_menos_idade.xml" value="0.173" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/fundo_degrade_telainicial.xml" value="0.173" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.173" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.107" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.107" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.107" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/font/font_urbanist.xml" value="0.38564102564102565" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/activity_tela_perfil.xml" value="0.3484375" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/card_premium.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/card_vacina.xml" value="0.5" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/simple_xy_plot_example.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/spi_dropdown_elemento.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/spi_dropdown_elemento2.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/spi_elemento.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/spinner_theclub.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_agua.xml" value="0.67" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_alimentacao.xml" value="0.33" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_cadastro.xml" value="0.16" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_cadastro_complementar.xml" value="0.67" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_conteudos.xml" value="0.67" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_conteudos__premium.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_exercicios.xml" value="0.5" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_inicial.xml" value="0.33" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_login.xml" value="0.5" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_logo.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_medicamentos.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_passos.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_peso.xml" value="0.5" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_peso_imc.xml" value="0.9" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_premium.xml" value="0.33" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_sono.xml" value="0.3625" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/layout/tela_vacinas.xml" value="0.25" />
+        <entry key="..\:/Users/barre/AndroidStudioProjects/HealthCare-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3255" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_cadastro_complementar.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_passos.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_perfil.xml" value="0.67" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_perfil__premium.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_peso.xml" value="0.25" />
+        <entry key="..\:/Users/eduarda_franderlinde/Documents/HealthCare/app/src/main/res/layout/tela_peso_imc.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/drawable/botao_cadastro.xml" value="0.1" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/drawable/caixa_login.xml" value="0.1" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/activity_splash.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/tela_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/tela_conteudos.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/tela_inicial.xml" value="0.25" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/tela_login.xml" value="0.25" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/HealthCare/app/src/main/res/layout/tela_logo.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/drawable/box_passos.xml" value="0.2287179487179487" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/drawable/box_sono.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/app_bar_menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/card_vacinas_criancas.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/content_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/fragment_gallery.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/fragment_home.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/fragment_slideshow.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/header.xml" value="0.18" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/nav_header_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_adicionar_cafe_da_manha.xml" value="0.33" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_agua.xml" value="0.25" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao.xml" value="0.25" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao1_almoco.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao1_cafedamanha.xml" value="0.33" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao1_jantar.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao_ad_cafedamanha.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_alimentacao_cafedamanha.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_cadastro.xml" value="0.22" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_cafe_manha_adicionado.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_conteudos.xml" value="0.5" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_conteudos__premium.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_exames.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_exames_ad.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_exercicios.xml" value="0.2" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_exercicios_adicionar.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_inicial.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_login.xml" value="0.33" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_passos.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_perfil.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_perfil__premium.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_peso.xml" value="0.5" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_premium.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_sono.xml" value="0.33" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_sono_adicionar.xml" value="0.22" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/layout/tela_vacinas.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/menu/main_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/menu/menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/menu/tela_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/theo_b_silva/Documents/HealthCare/app/src/main/res/menu/tela_menu_drawer.xml" value="0.21614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
