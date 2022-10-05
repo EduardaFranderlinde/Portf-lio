@@ -4,7 +4,12 @@ Eduarda Garcia Franderlinde
 Informação de contato:
 
 E-mail: eduarda_franderlinde@estudante.sc.senai.br
- 
+
+# SA e Projetos Finais
+- [unsmoke](Portfolio/Programacao_App/unSmoke(SA)/unSmoke-master) 
+- [estocar](Portfolio/Banco_Dado/EstoCar(Final)) 
+- [littleTesteVocacional](Portfolio/LittleTesteVocacional/LittelTesteVocacional2) 
+
 # Códigos - Banco de Dados
 - [select](Banco_Dado/Visualizar/Selects.sql) - Código inserido para relembrar tipos de visualização
 - [zoo](Banco_Dado/Zoo) - Código sobre zoológico foi uns dos mais completos que fizemos e ajudou para minha aprendizagem
