@@ -17,7 +17,7 @@
         android:hint="Olá, 'nome_usu'"
         android:textColor="#0C5C64"
         android:textColorHint="#0C5C64"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -43,8 +43,8 @@
         android:id="@+id/fotoUsuVacinas"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
         android:onClick="irTelaPerfil"
         app:layout_constraintBottom_toBottomOf="@+id/textView70"
         app:layout_constraintEnd_toEndOf="parent"
@@ -81,9 +81,9 @@
         app:layout_constraintTop_toTopOf="@+id/textView71" />
 
     <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginStart="15dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="15dp"
         android:layout_marginBottom="410dp"
@@ -91,7 +91,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textView71"
         app:layout_constraintTop_toBottomOf="@+id/textView71"
         app:layout_constraintVertical_bias="1.0">
 
@@ -101,7 +101,8 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+                android:layout_height="wrap_content"
+                android:onClick="setaCrianca">
 
                 <TextView
                     android:id="@+id/box1"
@@ -144,7 +145,8 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="20dp">
+                android:layout_marginStart="20dp"
+                android:onClick="setaJovem">
 
                 <TextView
                     android:id="@+id/box2"
@@ -187,7 +189,8 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="20dp">
+                android:layout_marginStart="20dp"
+                android:onClick="setaAdulto">
 
                 <TextView
                     android:id="@+id/box3"
@@ -231,7 +234,8 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="20dp">
+                android:layout_marginStart="20dp"
+                android:onClick="setaGestante">
 
                 <TextView
                     android:id="@+id/box4"
@@ -274,7 +278,8 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="20dp">
+                android:layout_marginStart="20dp"
+                android:onClick="setaIdoso">
 
                 <TextView
                     android:id="@+id/box5"
@@ -319,5 +324,74 @@
 
 
     </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/tituloVacinas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Vacinas crianças"
+        android:textColor="#0C5C64"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:fontFamily="@font/urbanist"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/horizontalScrollView"
+        app:layout_constraintTop_toBottomOf="@+id/horizontalScrollView" />
+
+    <TextView
+        android:id="@+id/nomeAlimentoCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text="Para vacinar, basta levar a criança a um\nposto ou Unidade Básica de Saúde com o\ncartão de vacinação"
+        android:textColor="#1E232C"
+        android:textSize="17sp"
+        android:visibility="invisible"
+        app:fontFamily="@font/urbanist"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tituloVacinas"
+        app:layout_constraintTop_toBottomOf="@+id/tituloVacinas" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvVacinas"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView43"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintStart_toStartOf="@+id/nomeAlimentoCard"
+        app:layout_constraintTop_toBottomOf="@+id/nomeAlimentoCard"
+        tools:listitem="@layout/item_vacina" />
+
+    <ImageView
+        android:id="@+id/imageView43"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/logo2_saude" />
+
+    <ImageView
+        android:id="@+id/imageView73"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="40dp"
+        android:onClick="voltarTelaConteudos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_baseline_arrow_back_24" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

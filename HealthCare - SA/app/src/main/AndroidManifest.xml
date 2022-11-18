@@ -5,8 +5,8 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
     <uses-permission android:name="android.permission.BODY_SENSORS" />
-    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
 
     <uses-feature
         android:name="android.hardware.sensor.stepdetector"
@@ -23,58 +23,43 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthCare">
         <activity
+            android:name=".TelaMedicamentos_add"
+            android:exported="true" />
+        <activity
+            android:name=".TelaVinculacaoClinicas"
+            android:exported="false" />
+        <activity
+            android:name=".TelaLembretes_add"
+            android:exported="false" />
+        <activity
             android:name=".TelaClinicas"
             android:exported="false" />
         <activity
-            android:name=".TelaExames_ad"
+            android:name=".TelaExames_add"
             android:exported="false" />
         <activity
             android:name=".TelaExames"
             android:exported="false" />
         <activity
-            android:name=".TelaAlimentacao_adLanche"
-            android:exported="false" />
-        <activity
-            android:name=".TelaAlimentacao1_Lanche"
-            android:exported="false" />
-        <activity
             android:name=".TelaAlimentacao_Lanche"
-            android:exported="false" />
-        <activity
-            android:name=".TelaAlimentacao_adJantar"
-            android:exported="false" />
-        <activity
-            android:name=".TelaAlimentacao1_Jantar"
             android:exported="false" />
         <activity
             android:name=".TelaAlimentacao_Jantar"
             android:exported="false" />
         <activity
-            android:name=".TelaAlimentacao_adAlmoco"
+            android:name=".TelaAlimentacao_add"
             android:exported="false" />
         <activity
-            android:name=".TelaAlimentacao1_Almoco"
+            android:name=".TelaAlimentacao2"
             android:exported="false" />
         <activity
-            android:name=".TelaAlimentacao_Almoco"
+            android:name=".TelaExercicios_add"
             android:exported="false" />
         <activity
-            android:name=".TelaAlimentacao1_Cafedamanha"
-            android:exported="false" />
-        <activity
-            android:name=".TelaAlimentacao_Cafedamanha"
-            android:exported="false" />
-        <activity
-            android:name=".TelaExercicios_adicionar"
-            android:exported="false" />
-        <activity
-            android:name=".TelaSono_adicionar"
+            android:name=".TelaSono_add"
             android:exported="false" />
         <activity
             android:name=".TelaCafeManhaAdicionado"
-            android:exported="false" />
-        <activity
-            android:name=".TelaAlimentacao_adCafedamanha"
             android:exported="false" />
         <activity
             android:name=".TelaPerfil_Premium"
