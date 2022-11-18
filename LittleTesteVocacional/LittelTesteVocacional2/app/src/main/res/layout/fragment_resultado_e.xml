@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/verde"
+    tools:context=".ResultadoS">
+
+    <TextView
+        android:id="@+id/suaPersonaE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="200dp"
+        android:fontFamily="@font/actor"
+        android:text="A sua personalidade é:"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/estabilidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:fontFamily="@font/creamcake"
+        android:gravity="center"
+        android:text="Estabilidade"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="90sp" />
+
+    <TextView
+        android:id="@+id/textoE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginRight="15dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:text="O ‘estável’ gosta de ser um jogador de equipe, mas atuando em um segundo plano, trabalhando em um ambiente estável. Geralmente são bons ouvintes, e não gostam de conflitos ou mudanças. Além de serem sinceros e leais."
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:src="@drawable/estabilidade" />
+</FrameLayout>

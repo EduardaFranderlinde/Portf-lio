@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rosa"
+    tools:context=".CursoC">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cursosC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/creamcake"
+                android:gravity="center"
+                android:text="Cursos"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="100dp" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Esses são os cursos que correspondem à sua personalidade:"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/CursosFaculC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="15dp"
+                android:text=" • Administração financeira \n • Administrador público  \n • Agropecuarista \n • Contabilista \n • Consultoria \n • Economista \n • Especialista em comércio exterior \n • Gerente comercial \n • Turismólogo \n • Arquitetura e Urbanismo \n • Designer \n • Designer de games \n • Designer de interiores \n • Bioquímico \n • Biotecnólogo \n • Geofísico \n • Geólogo \n • Veterinário \n • Meteorologista \n • Oceanógrafo \n • Zootecnólogo \n • Analista informática biomédica \n • Astrônomo \n • Bioengenheiro \n • Cientista físico e biomolecular \n • Cientista molecular \n • Cientista na área de tecnologia\n • Cientista químico e farmacêutico \n • Estatística \n • Física \n • Físico computacional \n • Físico médico \n • Físico na área biológica \n • Nanotecnologia \n • Química \n • Químico ambiental \n • Químico industrial \n • Sistemas de informação \n • Webdesign \n • Biblioteconomia \n • Agricultor \n • Construtor civil \n • Construtor naval \n • Engenheiro acústico \n • Engenheiro aeronáutico \n • Engenheiro agrícola \n • Engenheiro ambiental e sanitário \n • Engenheiro biomédico \n • Engenheiro civil \n • Engenheiro da computação \n • Engenheiro de alimentos \n • Engenheiro de biossistemas \n • Engenheiro de controle e automação \n • Engenheiro de energia \n • Engenheiro de inovação \n • Engenheiro de materiais \n • Engenheiro de minas \n • Engenheiro de pesca \n • Engenheiro de petróleo \n • Engenheiro de produção \n • Engenheiro de segurança do trabalho \n • Engenheiro de sistemas\n • Engenheiro de software \n • Engenheiro de telecomunicações \n • Engenheiro de transporte e mobilidade \n • Engenheiro elétrico \n • Engenheiro eletrônico \n • Engenheiro físico \n • Engenheiro florestal \n • Engenheiro hídrico \n • Engenheiro mecânico \n • Engenheiro mecatrônico \n • Engenheiro naval \n • Engenheiro químico \n • Minerador \n • Silvicultor \n • Biomédico \n • Dentista \n • Educador físico \n • Enfermeiro \n • Esteticista \n • Farmacêutico \n • Fisioterapeuta \n • Fonoaudiólogo \n • Gestor em saúde \n • Gestor hospitalar \n • Médico \n • Secretária"
+                android:textColor="#000000"
+                android:textSize="23sp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

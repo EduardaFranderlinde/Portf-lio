@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/amarelo"
+    tools:context=".CursoD">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/cursosD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/creamcake"
+                android:gravity="center"
+                android:text="Cursos"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="100sp"
+                tools:layout_editor_absoluteY="272dp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Esses são os cursos que correspondem à sua personalidade:"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/CursosFaculD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="15dp"
+                android:text=" • Administrador \n • Administração de empresas \n • Administração de operações e produções \n • Administração estratégica \n • Administrador público \n • Chef \n • Gestor público \n • Hoteleiro \n • Piloto de avião \n • Produtor fonográfico \n • Agrônomo \n • Análise e desenvolvimento de sistemas \n • Analista de computação científica \n • Analista de Processamento de dados \n • Analista de sistemas \n • Analista de sistemas de informação \n • Analista de sistemas e tecnologia da informação \n • Analista de telecomunicações \n • Ciências da computação \n • Advogado \n • Direito"
+                android:textColor="#000000"
+                android:textSize="23sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

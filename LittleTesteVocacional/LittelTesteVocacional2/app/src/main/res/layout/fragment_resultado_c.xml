@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rosa"
+    tools:context=".ResultadoC">
+
+    <TextView
+        android:id="@+id/suaPersonaC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="200dp"
+        android:fontFamily="@font/actor"
+        android:text="A sua personalidade é:"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/conformidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:fontFamily="@font/creamcake"
+        android:gravity="center"
+        android:text="Conformidade"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="90sp" />
+
+    <TextView
+        android:id="@+id/textoC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:text="Gostam de precisão, organização e competência, costumam ser sinceros e leais. Sempre focado no que é correto, e sempre planejando á frente seus projetos. Bastante precavido, preciso e tátil. "
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="350dp"
+        android:src="@drawable/conformidade" />
+</FrameLayout>

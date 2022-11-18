@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul"
+    tools:context=".FamosoI" >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/famososI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/creamcake"
+                android:gravity="center"
+                android:text="Famosos"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="100sp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Esses são os famosos com a sua personalidade:"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/oprahFoto"
+                android:layout_width="wrap_content"
+                android:layout_height="234dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="85dp"
+                android:src="@drawable/oprah" />
+
+            <TextView
+                android:id="@+id/oprahNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="105dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="@font/actor"
+                android:text="Oprah Winfrey"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/angelinaFoto"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:src="@drawable/angelina" />
+
+            <TextView
+                android:id="@+id/angelinaNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="@font/actor"
+                android:text="Angelina Jolie"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@id/angelinaFoto"
+                app:layout_constraintTop_toBottomOf="@+id/steveFoto" />
+
+            <ImageView
+                android:id="@+id/willFoto"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:src="@drawable/will" />
+
+            <TextView
+                android:id="@+id/willNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="134dp"
+                android:fontFamily="@font/actor"
+                android:text="Will Smith"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@id/willFoto"
+                app:layout_constraintTop_toBottomOf="@+id/jimFoto" />
+
+            <ImageView
+                android:id="@+id/jimFoto"
+                android:layout_width="wrap_content"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:src="@drawable/jim" />
+
+            <TextView
+                android:id="@+id/jimNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="132dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/actor"
+                android:text="Jim Carrey"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

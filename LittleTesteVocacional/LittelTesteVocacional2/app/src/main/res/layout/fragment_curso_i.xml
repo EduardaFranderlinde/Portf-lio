@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul"
+    tools:context=".CursoI" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/cursosI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/creamcake"
+                android:gravity="center"
+                android:text="Cursos:"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="100sp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Esses são os cursos que correspondem à sua personalidade:"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cursosFaculI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="15dp"
+                android:text=" • Gestor de turismo \n • Marketing \n • Marketing digital \n • Marketing offline \n • Marketing de influência \n • Animador \n • Arquitetura e Urbanismo \n • Artista plástico \n • Ator \n • Dançarino \n • Designer de moda \n • Fotógrafo \n • Músico \n • Moda \n • Produtor cênico \n • Ecologista \n • Marketing socioambiental \n • Cientista natural \n • Design de jogos \n • Museologista \n • Assessor de imprensa \n • Jornalista \n • Produtor audiovisual \n • Produtor cultural \n • Produtor editorial \n • Produtor multimídia \n • Produtor publicitário \n • Publicitário \n • Radialista \n • Relações públicas \n • Tradução e interpretação"
+                android:textColor="#000000"
+                android:textSize="23sp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

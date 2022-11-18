@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/amarelo"
+    tools:context=".FamosoD">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/famososD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/creamcake"
+                android:gravity="center"
+                android:text="Famosos"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="100sp"
+                tools:layout_editor_absoluteY="272dp" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Esses são os famosos com a sua personalidade:"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/hillaryFoto"
+                android:layout_width="wrap_content"
+                android:layout_height="234dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:layout_marginBottom="0dp"
+                android:src="@drawable/hilarryclinton" />
+
+            <TextView
+                android:id="@+id/hillaryNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="@font/actor"
+                android:text="Hillary Clinton"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/steveFoto"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:src="@drawable/stevejobs" />
+
+            <TextView
+                android:id="@+id/steveNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="@font/actor"
+                android:text="Steve Jobs"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/robertFoto"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:layout_marginBottom="0dp"
+                android:src="@drawable/robertdeniro" />
+
+            <TextView
+                android:id="@+id/robertNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="105dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="@font/actor"
+                android:text="Robert De Niro"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/cherFoto"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="90dp"
+                android:layout_marginBottom="0dp"
+                android:src="@drawable/cher" />
+
+            <TextView
+                android:id="@+id/cherNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="170dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/actor"
+                android:text="Cher"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

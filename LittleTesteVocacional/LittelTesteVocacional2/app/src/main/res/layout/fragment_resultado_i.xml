@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul"
+    tools:context=".ResultadoI">
+
+    <TextView
+        android:id="@+id/suaPersonaI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="200dp"
+        android:fontFamily="@font/actor"
+        android:text="A sua personalidade é:"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/influencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:fontFamily="@font/creamcake"
+        android:gravity="center"
+        android:text="Influência"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="90sp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <TextView
+        android:id="@+id/textoI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginRight="15dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:text="Com o nome sugestivo, pessoas com essa personalidade são influentes no ciclo onde vivem, de forma espontânea. Aberta e entusiasmada, esse grupo de pessoas gosta de trabalhar em equipe, além de ser otimista, falante e impulsivo."
+        android:textColor="#000000"
+        android:textSize="22sp" /> />
+
+    <ImageView
+        android:id="@+id/i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:src="@drawable/influencia" />
+
+</FrameLayout>
